@@ -1,0 +1,15 @@
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\bin\Debug\net8.0\Exercicio_APOO.exe
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\bin\Debug\net8.0\Exercicio_APOO.deps.json
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\bin\Debug\net8.0\Exercicio_APOO.runtimeconfig.json
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\bin\Debug\net8.0\Exercicio_APOO.dll
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\bin\Debug\net8.0\Exercicio_APOO.pdb
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\obj\Debug\net8.0\Exercicio_APOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\obj\Debug\net8.0\Exercicio_APOO.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\obj\Debug\net8.0\Exercicio_APOO.AssemblyInfo.cs
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\obj\Debug\net8.0\Exercicio_APOO.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\obj\Debug\net8.0\Exercicio_APOO.sourcelink.json
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\obj\Debug\net8.0\Exercicio_APOO.dll
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\obj\Debug\net8.0\refint\Exercicio_APOO.dll
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\obj\Debug\net8.0\Exercicio_APOO.pdb
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\obj\Debug\net8.0\Exercicio_APOO.genruntimeconfig.cache
+C:\Users\richa\source\repos\RichardRocha\Projects\APOO\Exercicio_APOO\Exercicio_APOO\obj\Debug\net8.0\ref\Exercicio_APOO.dll

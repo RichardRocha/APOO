@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "TAD-RichardNicholasRocha/1.0.0": {
+      "Exercicio_APOO/1.0.0": {
         "runtime": {
-          "TAD-RichardNicholasRocha.dll": {}
+          "Exercicio_APOO.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "TAD-RichardNicholasRocha/1.0.0": {
+    "Exercicio_APOO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

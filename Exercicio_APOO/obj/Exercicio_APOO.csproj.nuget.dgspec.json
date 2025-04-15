@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\richa\\source\\repos\\RichardRocha\\Projects\\APOO\\TAD-RichardNicholasRocha\\TAD-RichardNicholasRocha\\TAD-RichardNicholasRocha.csproj": {}
+    "C:\\Users\\richa\\source\\repos\\RichardRocha\\Projects\\APOO\\Exercicio_APOO\\Exercicio_APOO\\Exercicio_APOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\richa\\source\\repos\\RichardRocha\\Projects\\APOO\\TAD-RichardNicholasRocha\\TAD-RichardNicholasRocha\\TAD-RichardNicholasRocha.csproj": {
+    "C:\\Users\\richa\\source\\repos\\RichardRocha\\Projects\\APOO\\Exercicio_APOO\\Exercicio_APOO\\Exercicio_APOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\richa\\source\\repos\\RichardRocha\\Projects\\APOO\\TAD-RichardNicholasRocha\\TAD-RichardNicholasRocha\\TAD-RichardNicholasRocha.csproj",
-        "projectName": "TAD-RichardNicholasRocha",
-        "projectPath": "C:\\Users\\richa\\source\\repos\\RichardRocha\\Projects\\APOO\\TAD-RichardNicholasRocha\\TAD-RichardNicholasRocha\\TAD-RichardNicholasRocha.csproj",
+        "projectUniqueName": "C:\\Users\\richa\\source\\repos\\RichardRocha\\Projects\\APOO\\Exercicio_APOO\\Exercicio_APOO\\Exercicio_APOO.csproj",
+        "projectName": "Exercicio_APOO",
+        "projectPath": "C:\\Users\\richa\\source\\repos\\RichardRocha\\Projects\\APOO\\Exercicio_APOO\\Exercicio_APOO\\Exercicio_APOO.csproj",
         "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\richa\\source\\repos\\RichardRocha\\Projects\\APOO\\TAD-RichardNicholasRocha\\TAD-RichardNicholasRocha\\obj\\",
+        "outputPath": "C:\\Users\\richa\\source\\repos\\RichardRocha\\Projects\\APOO\\Exercicio_APOO\\Exercicio_APOO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
