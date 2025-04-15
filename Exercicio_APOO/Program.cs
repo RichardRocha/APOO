@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Trabalho de APOOI - Implementação de TAD Grafo (versão com matriz de adjacência e indegree)
+// Grupo: Arlyson RA: 113627 , Richard Rocha RA:113760 , Kauan Melo RA:113471.
+using System;
 class Programa
 {
     static void Main()
@@ -27,12 +29,12 @@ class Programa
             switch (op)
             {
                 case "1":
-                    Console.Write("Início e fim: ");
+                    Console.Write("Início e fim(ex:0 1): ");
                     var a = Console.ReadLine().Split();
                     grafo.AdicionarAresta(int.Parse(a[0]), int.Parse(a[1]));
                     break;
                 case "2":
-                    Console.Write("Início e fim: ");
+                    Console.Write("Início e fim(ex:0 1): ");
                     var b = Console.ReadLine().Split();
                     grafo.RemoverAresta(int.Parse(b[0]), int.Parse(b[1]));
                     break;
@@ -40,16 +42,16 @@ class Programa
                     grafo.MostrarMatriz();
                     break;
                 case "4":
-                    Console.Write("V1 e V2: ");
+                    Console.Write("V1 e V2(ex:0 1): ");
                     var c = Console.ReadLine().Split();
                     bool adj = grafo.SaoAdjacentes(int.Parse(c[0]), int.Parse(c[1]));
                     if (adj)
                     {
-                        Console.WriteLine("Sim.");
+                        Console.WriteLine("Sim é adjacente.");
                     }
                     else
                     {
-                        Console.WriteLine("Não.");
+                        Console.WriteLine("Não é adjacente.");
                     }
                     break;
                 case "5":
@@ -57,7 +59,7 @@ class Programa
                     grafo.MostrarIndegree();
                     break;
                 case "6":
-                    Console.Write("Origem e destino: ");
+                    Console.Write("Origem e destino(ex:0 5): ");
                     var d = Console.ReadLine().Split();
                     grafo.Dijkstra(int.Parse(d[0]), int.Parse(d[1]));
                     break;

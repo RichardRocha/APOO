@@ -1,5 +1,5 @@
 ﻿// Trabalho de APOOI - Implementação de TAD Grafo (versão com matriz de adjacência e indegree)
-// Grupo: Aluno1, Aluno2, Aluno3
+// Grupo: Arlyson RA: 113627 , Richard Rocha RA:113760 , Kauan Melo RA:113471.
 
 using System;
 
